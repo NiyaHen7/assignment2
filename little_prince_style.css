@@ -1,0 +1,12 @@
+.underlineClass{
+    text-decoration:underline;
+}
+.orangeHighlight{
+    background:orange;
+}
+.redWord{
+    color:red;font-weight:bold;
+}
+.myDivision{
+    width: 350px;
+}
